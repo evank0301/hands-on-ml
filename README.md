@@ -1,0 +1,1 @@
+# My notes from following along with Geron's Hands on ML book
